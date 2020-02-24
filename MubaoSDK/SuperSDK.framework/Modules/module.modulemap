@@ -1,0 +1,6 @@
+framework module SuperSDK {
+  umbrella header "SuperSDK.h"
+
+  export *
+  module * { export * }
+}
